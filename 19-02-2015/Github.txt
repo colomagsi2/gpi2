@@ -1,0 +1,4 @@
+
+En principio habíamos pensado usar Git (repositorio centralizado) pero al final Hemos optado por
+el repositorio de github, dado que es un repositorio distribuido y de esta manera podremos
+trabajar de modo local.
